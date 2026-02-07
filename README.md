@@ -11,14 +11,20 @@
 
 <div align="Center">
 
-| Website | Programming |
+| Mis Tecnologias | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,c,php,mysql,py,laravel"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
 </div>
 <div align="Center">
-<h1>Operating Systems</h1>
+<h1>Sistemas Operativos</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,kali,debian"/>
 
 </div>
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+
+ 
