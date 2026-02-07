@@ -13,7 +13,7 @@
 
 | Mis Tecnologias | Ide's |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,c,php,mysql,py,bootstrap,laravel"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,c,php,mysql,bootstrap,laravel"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,github"/> |
 
 </div>
 <div align="Center">
